@@ -1,0 +1,10 @@
+
+#backg{
+    background-image: url(../assets/images/);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wide{
+    width: 80%;
+}
